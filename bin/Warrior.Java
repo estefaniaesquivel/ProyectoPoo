@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-import java.util.List;
 // Clase Warrior (Aragorn)
 public class Warrior extends Character {
     private int fuerzaEspada;
